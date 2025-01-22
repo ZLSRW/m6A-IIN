@@ -1,4 +1,4 @@
-# m$^6$A-IIN
+# m6A-IIN
 
 ## Requirements
 
