@@ -1,1 +1,1 @@
-The models can be found in https://figshare.com/account/items/28646933/.
+The models can be found in https://figshare.com/articles/presentation/The_trained_models_of_m6A-IIN_and_the_baselines/28646933.
